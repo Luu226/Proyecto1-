@@ -1,0 +1,29 @@
+﻿inherited Form1_SSW3: TForm1_SSW3
+  ClientHeight = 183
+  ClientWidth = 183
+  DesignerMasterStyle = 3
+  inherited Memo1: TMemo
+    Size.Width = 183.000000000000000000
+    Size.Height = 97.000000000000000000
+    Viewport.Width = 183.000000000000000000
+    Viewport.Height = 97.000000000000000000
+  end
+  inherited btnLogin: TButton
+    Position.Y = 138.000000000000000000
+    Size.Width = 183.000000000000000000
+  end
+  inherited txtContraseña: TEdit
+    inherited PasswordEditButton1: TPasswordEditButton
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+    end
+  end
+  inherited lbnTitulo: TLabel
+    Size.Width = 183.000000000000000000
+    Size.Height = 183.000000000000000000
+  end
+  inherited btnSalir: TButton
+    Position.Y = 97.000000000000000000
+    Size.Width = 183.000000000000000000
+  end
+end

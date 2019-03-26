@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/03/15 18:53:29.000.569,=C:\Users\Lulu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/15 19:05:57.000.695,C:\Users\Lulu\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Lulu\Documents\Embarcadero\Studio\Projects\DexTOX.pas</Transaction>
+    <Transaction>2019/03/15 19:05:57.000.695,C:\Users\Lulu\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\Lulu\Documents\Embarcadero\Studio\Projects\DexTOX.fmx</Transaction>
+    <Transaction>2019/03/15 19:23:47.000.851,C:\Users\Lulu\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Lulu\Documents\Embarcadero\Studio\Projects\DexTOX_APP.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="6NU4C18B08004415"/>
+	</ActiveMobileDevice>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
